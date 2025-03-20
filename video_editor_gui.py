@@ -264,3 +264,4 @@ for feature, command in features.items():
     tk.Button(root, text=feature, command=command, bg="#1abc9c", fg="white", padx=5, pady=5).pack(pady=5)
 
 root.mainloop()
+#multiple editing functions with video
